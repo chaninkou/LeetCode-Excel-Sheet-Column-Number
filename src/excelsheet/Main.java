@@ -2,7 +2,7 @@ package excelsheet;
 
 public class Main {
 	public static void main(String[] args) {
-		String s = "AA";
+		String s = "AB";
 		
 		System.out.println("Input: " + s);
 		
