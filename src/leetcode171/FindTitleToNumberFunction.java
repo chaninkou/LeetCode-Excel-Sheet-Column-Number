@@ -1,4 +1,4 @@
-package excelsheet;
+package leetcode171;
 
 public class FindTitleToNumberFunction {
     public int titleToNumber(String s) {
